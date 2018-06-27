@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePadGUI", "NotePadGUI\NotePadGUI.csproj", "{50B86A39-7EF8-4EC6-947E-06E1EA2ED69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B86A39-7EF8-4EC6-947E-06E1EA2ED69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B86A39-7EF8-4EC6-947E-06E1EA2ED69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B86A39-7EF8-4EC6-947E-06E1EA2ED69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B86A39-7EF8-4EC6-947E-06E1EA2ED69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F74D1C-7896-418B-BCEF-5CBD80B53284}
+	EndGlobalSection
+EndGlobal
